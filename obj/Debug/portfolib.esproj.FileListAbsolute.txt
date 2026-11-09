@@ -1,0 +1,2 @@
+C:\Users\ibtih\source\repos\portfolib\obj\Debug\portfolib.esproj.SuggestedBindingRedirects.cache
+C:\Users\ibtih\source\repos\portfolib\obj\Debug\portfolib.esproj.CoreCompileInputs.cache
